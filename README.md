@@ -50,7 +50,7 @@ streamlit run app.py
 Run this command in your terminal:
 
 ```bash
-cd /Users/swagataashwani/Documents/linkedin_jobs
+cd /your-folder-location/linkedin_jobs
 ./deploy.sh
 ```
 
@@ -66,7 +66,7 @@ See [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md) for detailed instructions.
 
 2. **Push your code:**
 ```bash
-cd /Users/swagataashwani/Documents/linkedin_jobs
+cd /your-folder-location/linkedin_jobs
 git init
 git add .
 git commit -m "Initial commit"
@@ -105,5 +105,5 @@ Your dashboard will be **publicly accessible** - anyone can view it without logi
 
 ## License
 
-MIT License - Feel free to use and modify!
+Feel free to use and modify! Pls reach out - swagata1506@gmail.com
 
